@@ -1,0 +1,2 @@
+rootProject.name='MyMoviesKotlin'
+include ':app'
